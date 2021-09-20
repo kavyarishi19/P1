@@ -52,3 +52,4 @@ while True:
 
 
 print("P1")
+print("Git try")
